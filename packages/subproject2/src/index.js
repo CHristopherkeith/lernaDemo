@@ -1,0 +1,1 @@
+console.log('[hello index.js from subproject2]')

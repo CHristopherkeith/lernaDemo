@@ -14,7 +14,8 @@
     "lib"
   ],
   "scripts": {
-    "test": "node ./__tests__/subproject1.test.js"
+    "test": "node ./__tests__/subproject1.test.js",
+    "start": "node ./src/index.js"
   },
   "dependencies": {
     "subproject2": "^0.0.0"
