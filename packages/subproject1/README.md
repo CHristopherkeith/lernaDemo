@@ -16,3 +16,4 @@ lerna create<br>
 lerna import<br>
 使用react或vue等框架脚手架
 - 依赖提升的问题
+- lerna add 本地包之后是否需要link
