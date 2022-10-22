@@ -1,1 +1,1 @@
-console.log('[hello index.js from subproject2]')
+console.log('[hello index.js from subproject222]')
