@@ -18,6 +18,8 @@
     "start": "node ./src/index.js"
   },
   "dependencies": {
-    "subproject1": "^0.0.0"
+    "dayjs": "^1.11.6",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
   }
 }
