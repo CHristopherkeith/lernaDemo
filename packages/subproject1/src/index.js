@@ -1,3 +1,4 @@
+
 // const sayHello2Default = require("subproject2");
 // const sayHello1 = require("../lib/subproject1");
 // const sayHello2 = require("subproject2/src/index");
@@ -10,5 +11,5 @@
 
 // import vue test
 const vueMain = require("subprojectVue/src/main");
-const vueComp = require("subprojectVue/src/components/HelloWorld.vue");
+const vueComp = require("subprojectVue/src/App.vue");
 console.log("[hello index.js from subproject1]");

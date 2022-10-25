@@ -1,5 +1,5 @@
 {
-  "name": "subprojectVue",
+  "name": "subprojectVue2",
   "version": "0.1.0",
   "private": false,
   "scripts": {
@@ -10,7 +10,6 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "element-plus": "^2.1.8",
-    "subprojectVue2": "^0.1.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
