@@ -11,6 +11,8 @@
     "core-js": "^3.6.5",
     "element-plus": "^2.1.8",
     "subprojectVue2": "^0.1.0",
+    "subprojectVue3": "^0.0.0",
+    "nodeModelSubprojectVue": "^0.0.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {

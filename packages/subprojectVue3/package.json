@@ -1,0 +1,12 @@
+{
+  "name": "subprojectVue3",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Christopher <easonmu@hotmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}

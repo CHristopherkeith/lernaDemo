@@ -19,9 +19,12 @@ lerna import<br/>
 https://github.com/lerna/lerna/issues/2567
 - [ ] 对工程化项目的支持
 - [ ] 关联的本地包vue文件的编辑问题<br/>
-1.直接引用vue文件<br/>
-2.直接引用ts文件<br/>
-3.直接引用js文件<br/>
+1.vue文件<br/>
+vue文件不能被点击跳转追踪：
+1.1.自身目录下使用非相对路径引用vue文件，例如"@/"、"aNodeModulesPackage/"等
+1.2.非自身目录下在非js文件引用vue文件
+2.ts文件<br/>
+3.js文件<br/>
 - [ ] 循环引用的问题
 - [x] lerna add之后会执行bootstrap，将package.json原来提升的依赖重新还原<br/>
 1.考虑使用配置使bootstrap命令默认使用提升配置<br/>

@@ -6,9 +6,6 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-// import vueApp from "../node_modules/subprojectVue3/src/App.vue"
-import vueMain from "subprojectVue3/src/main"
-import vueApp from "subprojectVue3/src/App.vue"
 
 export default {
   name: 'App',

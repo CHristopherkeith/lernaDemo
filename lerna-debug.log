@@ -1,0 +1,17 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   scope: 'subprojectVue',
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '6.0.1',
+0 silly argv   '$0': 'C:\\Users\\Christopher\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: 'subprojectVue3'
+0 silly argv }
+1 notice cli v6.0.1
+2 verbose rootPath D:\0-my\work\code\demo\lerna\lernaDemo
+3 warn EWORKSPACES Workspaces exist in the root package.json, but Lerna is not configured to use them.
+3 warn EWORKSPACES To fix this and have Lerna use workspaces to resolve packages, set `useWorkspaces: true` in lerna.json.
+4 warn EPACKAGES No packages defined in lerna.json. Defaulting to packages in packages/*
+5 error HttpErrorGeneral: 404 Not Found - GET https://registry.npmjs.org/subprojectVue3 - Not found
+5 error     at D:\0-my\work\code\demo\lerna\lernaDemo\node_modules\npm-registry-fetch\lib\check-response.js:95:15
+5 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+5 error     at async RegistryFetcher.packument (D:\0-my\work\code\demo\lerna\lernaDemo\node_modules\pacote\lib\registry.js:92:19)
