@@ -9,6 +9,7 @@
 import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
 import HomeView1 from '1030SetupNpmlink/src/views/HomeView.vue'
 import HomeView2 from '../../node_modules/1030SetupNpmlink/src/views/HomeView.vue'
+import test from '1030SetupNpmlink/src/views/test'
 
 
 // export default defineComponent({

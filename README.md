@@ -23,6 +23,7 @@ https://github.com/lerna/lerna/issues/2567
 vue文件不能被点击跳转追踪：<br/>
 1.1.自身目录下非vue文件使用非相对路径引用vue文件，例如"@/"、"aNodeModulesPackage/"等<br/>
 1.2.非自身目录下在非js文件非相对路径引用vue文件<br/>
+1.3.链接项目，跳转到js/ts文件能直接到原文件夹，而vue文件只能链接到node_modules包<br/>
 2.ts文件<br/>
 3.js文件<br/>
 - [ ] 循环引用的问题
